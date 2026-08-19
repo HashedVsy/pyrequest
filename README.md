@@ -18,7 +18,7 @@ To use PyRequest, first install the [dependencies](#dependencies).
 Then run:
 
 ```bash
-python main.py
+python pyrequest.py
 ```
 
 ## License
