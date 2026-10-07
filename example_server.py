@@ -4,7 +4,7 @@ app = Flask(__name__)
 
 @app.get("/")
 def get():
-    return "Hello from Vserver!"
+    return "Hello from Server!"
 
 @app.post("/")
 def post():
