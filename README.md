@@ -2,6 +2,11 @@
 
 A small Python HTTP client for simple GET and POST requests.
 
+## READ.
+This tool is not meant for malicious usage.
+It is meant for Penetration testing and/or Self Protection.
+If you do something illegal, its your fault. There were enough warnings.
+
 ## Dependencies
 
 To run PyRequest, you will need [Requests](https://pypi.org/project/requests/).
